@@ -59,6 +59,17 @@ MDmap
         HTML
 ```
 
+## MDmap Icon 
+
+```mermaid
+mindmap
+MDmap
+  (MD)
+   (m)
+   (a)
+   (p)
+```
+
 ## MDmap Starter
 
 ```mermaid
@@ -91,6 +102,7 @@ Potential Issues
 mindmap
 MDmap Action Plan
   ⓵ Complete this overview
+    TODO:consider other diagrams available in mermaid
   ⓷ Create a site for *Cloudflare Pages*
     Web2 or Web3?
   ⓸ Move each **mindmap** to its own page

@@ -1,14 +1,14 @@
-# MDmap
+# MDdiag
 
-MDmap is my working title for a free markdown-based mind map project. To start, I'll use [mermaid](https://mermaid.js.org/syntax/mindmap.html). Because it's available immediately in GitHub. I'm aware of [markmap](https://markmap.js.org/). But I haven't investigated it, or any other alternatives. Because that is beyond my current scope for this project.
+MDdiag (formerly MDmap) is my working title for a free markdown-based mind map project. To start, I'll use [mermaid](https://mermaid.js.org/syntax/mindmap.html). Because it's available immediately in GitHub. I'm aware of [markmap](https://markmap.js.org/). But I haven't investigated it, or any other alternatives. Because that is beyond my current scope for this project.
 
 Note that this is a learning project for me. Which means that I'm using it to gain practical experience of developing free mindmaps using mermaid markdown in this free GitHub repository. So it is not a complete guide. Though I hope I can develop it into one. Complete with examples and usable templates.
 
-## MDmap Purpose & Scope
+## MDdiag Purpose & Scope
 
 My immediate purpose is to find an alternative for MindMup. Because I no longer want to pay for its premium features. Noting that it is great value for commercial projects. But, in retirement, I'm looking for free options for all my Internet services.
 
-To that end, my scope starts with looking at all my use cases for MindMup. Then assessing if these can be converted to MDmap. But prior to that, I will summarize [mermaid](https://mermaid.js.org/syntax/mindmap.html) for:
+To that end, my scope starts with looking at all my use cases for MindMup. Then assessing if these can be converted to MDdiag. But prior to that, I will summarize [mermaid](https://mermaid.js.org/syntax/mindmap.html) for:
 
 - Syntax
 - Shapes
@@ -16,16 +16,16 @@ To that end, my scope starts with looking at all my use cases for MindMup. Then 
 - Classes
 - Markdown Strings
 
-If I can use MDmap for all my use cases, I will then consider if I can integrate it into Shrewdies.com. Or a separate mdmap.shrewdies.com project.
+If I can use MDdiag for all my use cases, I will then consider if I can integrate it into Shrewdies.com. Or a separate MDdiag.shrewdies.com project.
 
-[240613 edit] On reflection, I prefer the MDmap.Shrewdies.com approach with a #BuildInPublic mindset. Using the Hive Blockchain to store MDmaps. Presented by my own mermaid-enabled frontend. However, this raises privacy issues as blockchain data is public. And encrypting it seems like overkill. So, I've added this as a potential issue.
+[240613 edit] On reflection, I prefer the MDdiag.Shrewdies.com approach with a #BuildInPublic mindset. Using the Hive Blockchain to store MDdiags. Presented by my own mermaid-enabled frontend. However, this raises privacy issues as blockchain data is public. And encrypting it seems like overkill. So, I've added this as a potential issue.
 
-## MDmap Example
+## MDdiag Example
 
 ```mermaid
 %%{init: {"theme": "forest", "securityLevel": "loose" }}%%
 mindmap
-MDmap
+MDdiag
   Syntax
     Simply indent for next level
     Or add siblings at same level
@@ -87,15 +87,16 @@ MDmap
             [But there are probably some exceptions]
 ```
 
-## MDmap Icon 
+## MDdiag Icon 
 
 ```mermaid
 mindmap
-MDmap
+MDdiag
   (MD)
-   (m)
+   (d)
+   (i)
    (a)
-   (p)
+   (g)
 ```
 
 ## MDmap Starter
@@ -109,7 +110,7 @@ __UpdateThis_RootName__
   __UpdateThis_Child2__
 ```
 
-## MDmap Potential Issues
+## MDdiag Potential Issues
 
 ```mermaid
 mindmap
@@ -123,7 +124,7 @@ Potential Issues
             {{Potential Solution a}}
             {{Potential Solution b}}
   240613 Privacy of Web3 Version
-    The Hive Blockchain presentation option is only one way of using MDmaps. So it is easy to maintain a private GitHub repo like this for private maps.
+    The Hive Blockchain presentation option is only one way of using MDdiags. So it is easy to maintain a private GitHub repo like this for private maps.
 ```
 
 ## MDmap Action Plan 240420
@@ -140,20 +141,19 @@ MDmap Action Plan
   ⓹ Work on my Use Cases
 ```
 
-## MDmap Action Plan 240613
+## MDdiag Action Plan 240613
 
 ```mermaid
 mindmap
-MDmap Action Plan
+MDdiag Action Plan
   ⓷ Research new pages
     Include other diagrams available in mermaid. Especially those listed as probably supporting links
     Investigate options available for
       mermaid align, zoom
       Double% directive that seems to be overriding https://mermaid.js.org/config/setup/modules/mermaidAPI.html?#mermaidapi-configuration-defaults
   ⓶ Create a site for *Cloudflare Pages*
-    Web2 or Web3? See 'https://github.com/kct2020/mdmap?tab=readme-ov-file#mdmap-potential-issues' Potential Issues
+    Web2 or Web3? See 'https://github.com/kct2020/mddiag?tab=readme-ov-file#mddiag-potential-issues' Potential Issues
     Experiment with logo using different themes
-    Consider changing name to MDdiag
   ⓵ Move each **mindmap** to its own page as current page is getting too big and confusing
   ⓹ Do a map from a markdown guide to test all features
   ⓸ Work on my Public Use Cases
@@ -165,12 +165,6 @@ MDmap Action Plan
     Life/Financial plans
 ```
 
-## MindMup Use Cases
+## MDdiag Pages
 
-```mermaid
-mindmap
-MindMup Use Cases
-  Snippets
-  Organizing categories & sub categories
-  Tracking status changes
-```
+- MindMup Use Cases

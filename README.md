@@ -167,4 +167,4 @@ MDdiag Action Plan
 
 ## MDdiag Pages
 
-- [MindMup Use Cases](https://github.com/kct2020/mddiag/mindmup-use-cases.md#mindmup-use-cases)
+- [MindMup Use Cases](https://github.com/kct2020/mddiag/blob/main/mindmup-use-cases.md#mindmup-use-cases)

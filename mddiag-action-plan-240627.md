@@ -1,4 +1,4 @@
-# MDdiag Action Plan 240613
+# MDdiag Action Plan 240627
 
 ```mermaid
 mindmap
@@ -6,6 +6,9 @@ MDdiag Action Plan
   ⓵ Move each **mindmap** to its own page as current page is getting too big and confusing
   ⓶ Create a site for *Cloudflare Pages*
     Web2 or Web3? See 'https://github.com/kct2020/mddiag/blob/main/mddiag-potential-issues.md#mddiag-potential-issues' Potential Issues
+      Assuming Web 3
+        {{Create account for MDdiag or}}
+        {{Use MDdiag tag}}
     Experiment with logo using different themes
   ⓷ Research new pages
     Include other diagrams available in mermaid. Especially those listed as probably supporting links
@@ -22,4 +25,4 @@ MDdiag Action Plan
     Life/Financial plans
 ```
 
-Return from MDdiag Action Plan 240613 to [MDdiag Home Page](https://github.com/kct2020/mddiag?tab=readme-ov-file#mddiag)
+Return from MDdiag Action Plan 240627 to [MDdiag Home Page](https://github.com/kct2020/mddiag?tab=readme-ov-file#mddiag)

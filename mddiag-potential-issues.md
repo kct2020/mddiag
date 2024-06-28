@@ -11,7 +11,7 @@ Potential Issues
         [Problem]
             {{Potential Solution a}}
             {{Potential Solution b}}
-  240613 Privacy of Web3 Version
+  240627 Privacy of Web3 Version
     The Hive Blockchain presentation option is only one way of using MDdiags. So it is easy to maintain a private GitHub repo like this for private maps.
 ```
 

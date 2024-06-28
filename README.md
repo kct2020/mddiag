@@ -18,7 +18,7 @@ To that end, my scope starts with looking at all my use cases for MindMup. Then 
 
 If I can use MDdiag for all my use cases, I will then consider if I can integrate it into Shrewdies.com. Or a separate MDdiag.shrewdies.com project.
 
-[240613 edit] On reflection, I prefer the MDdiag.Shrewdies.com approach with a #BuildInPublic mindset. Using the Hive Blockchain to store MDdiags. Presented by my own mermaid-enabled frontend. However, this raises privacy issues as blockchain data is public. And encrypting it seems like overkill. So, I've added this as a potential issue.
+[240627 edit] On reflection, I prefer the MDdiag.Shrewdies.com approach with a #BuildInPublic mindset. Using the Hive Blockchain to store MDdiags. Presented by my own mermaid-enabled frontend. However, this raises privacy issues as blockchain data is public. And encrypting it seems like overkill. So, I've added this as a potential issue.
 
 ## MDdiag Example
 
@@ -94,5 +94,5 @@ MDdiag
 - [MDmap Starter](https://github.com/kct2020/mddiag/blob/main/mdmap-starter.md#mdmap-starter)
 - [MDdiag Potential Issues](https://github.com/kct2020/mddiag/blob/main/mddiag-potential-issues.md#mddiag-potential-issues)
 - [MDmap Action Plan 240420](https://github.com/kct2020/mddiag/blob/main/mdmap-action-plan-240420.md#mdmap-action-plan-240420)
-- [MDdiag Action Plan 240613](https://github.com/kct2020/mddiag/blob/main/mddiag-action-plan-240613.md#mddiag-action-plan-240613)
+- [MDdiag Action Plan 240627](https://github.com/kct2020/mddiag/blob/main/mddiag-action-plan-240627.md#mddiag-action-plan-240627)
 - [MindMup Use Cases](https://github.com/kct2020/mddiag/blob/main/mindmup-use-cases.md#mindmup-use-cases)

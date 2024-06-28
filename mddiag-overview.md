@@ -2,7 +2,7 @@
 
 ```mermaid
 quadrantChart
-    title Diagram Type for Node Dependencies
+    title Diagram Type for Node Dependency & Privacy
     x-axis Public --> Private
     y-axis Independent Nodes --> Dependent Nodes
     quadrant-1 GitHub Flowchart

@@ -95,4 +95,6 @@ MDdiag
 - [MDdiag Potential Issues](https://github.com/kct2020/mddiag/blob/main/mddiag-potential-issues.md#mddiag-potential-issues)
 - [MDmap Action Plan 240420](https://github.com/kct2020/mddiag/blob/main/mdmap-action-plan-240420.md#mdmap-action-plan-240420)
 - [MDdiag Action Plan 240627](https://github.com/kct2020/mddiag/blob/main/mddiag-action-plan-240627.md#mddiag-action-plan-240627)
+- [MDdiag Action Plan 240628](https://github.com/kct2020/mddiag/blob/main/mddiag-action-plan-240627.md#mddiag-action-plan-240628)
+- [MDdiag Overview](https://github.com/kct2020/mddiag/blob/main/mindmup-overview.md#mindmup-overview)
 - [MindMup Use Cases](https://github.com/kct2020/mddiag/blob/main/mindmup-use-cases.md#mindmup-use-cases)

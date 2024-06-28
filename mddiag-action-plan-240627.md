@@ -25,4 +25,6 @@ MDdiag Action Plan
     Life/Financial plans
 ```
 
+***
+
 Return from MDdiag Action Plan 240627 to [MDdiag Home Page](https://github.com/kct2020/mddiag?tab=readme-ov-file#mddiag)

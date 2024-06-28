@@ -89,12 +89,11 @@ MDdiag
 
 ## MDdiag Pages
 
-- [](https://github.com/kct2020/mddiag/blob/main/)
 - [MDdiag Icon](https://github.com/kct2020/mddiag/blob/main/mddiag-icon.md#mddiag-icon)
 - [MDmap Starter](https://github.com/kct2020/mddiag/blob/main/mdmap-starter.md#mdmap-starter)
 - [MDdiag Potential Issues](https://github.com/kct2020/mddiag/blob/main/mddiag-potential-issues.md#mddiag-potential-issues)
-- [MDmap Action Plan 240420](https://github.com/kct2020/mddiag/blob/main/mdmap-action-plan-240420.md#mdmap-action-plan-240420)
-- [MDdiag Action Plan 240627](https://github.com/kct2020/mddiag/blob/main/mddiag-action-plan-240627.md#mddiag-action-plan-240627)
-- [MDdiag Action Plan 240628](https://github.com/kct2020/mddiag/blob/main/mddiag-action-plan-240627.md#mddiag-action-plan-240628)
-- [MDdiag Overview](https://github.com/kct2020/mddiag/blob/main/mindmup-overview.md#mindmup-overview)
 - [MindMup Use Cases](https://github.com/kct2020/mddiag/blob/main/mindmup-use-cases.md#mindmup-use-cases)
+- [MDdiag Action Plan 240628](https://github.com/kct2020/mddiag/blob/main/mddiag-action-plan-240628.md#mddiag-action-plan-240628)
+- [MDdiag Overview](https://github.com/kct2020/mddiag/blob/main/mindmup-overview.md#mindmup-overview)
+
+This list excludes obsolete pages that will not be developed further. They are still viewable from the code list. As learning examples. But I intend to delete them once this project becomes stable.

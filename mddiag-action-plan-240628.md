@@ -1,5 +1,7 @@
 # MDdiag Action Plan 240628
 
+## MDdiag Action Plan Mermaid Flowchart
+
 ```mermaid
 flowchart TD
     Diag(["`MDdiag Plan`"]) --> T[This] & P[Personal] & W[Web3]
@@ -7,6 +9,14 @@ flowchart TD
     P --> PM[["`MyMDdiag`"]]
     W --> WM[["`MDdiag.Shrewdies.com`"]]
 ```
+#### Clicks
+
+- MyMDdiag (private)
+- MDdiag.Shrewdies
+
+I will update links as projects become usable.
+
+## MDdiag Action Plan
 
 I'm working on my own private diagrams in a GitHub repository similar to this. And as my mermaid skills improve, I will improve this repo. But my main priority is to develop a Web3 version of this repo. Which I will base on my forthcoming personal Web3 blog.
 

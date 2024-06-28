@@ -94,6 +94,6 @@ MDdiag
 - [MDdiag Potential Issues](https://github.com/kct2020/mddiag/blob/main/mddiag-potential-issues.md#mddiag-potential-issues)
 - [MindMup Use Cases](https://github.com/kct2020/mddiag/blob/main/mindmup-use-cases.md#mindmup-use-cases)
 - [MDdiag Action Plan 240628](https://github.com/kct2020/mddiag/blob/main/mddiag-action-plan-240628.md#mddiag-action-plan-240628)
-- [MDdiag Overview](https://github.com/kct2020/mddiag/blob/main/mindmup-overview.md#mindmup-overview)
+- [MDdiag Node Overview](https://github.com/kct2020/mddiag/blob/main/mddiag-node-overview.md#mddiag-node-overview)
 
 This list excludes obsolete pages that will not be developed further. They are still viewable from the code list. As learning examples. But I intend to delete them once this project becomes stable.

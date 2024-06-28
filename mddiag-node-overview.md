@@ -26,7 +26,7 @@ As you can see above, mermaid supports other diagram types. And I will suggest a
 
 Web3, as I implement it, cannot be private. So if your data is confidential, you must set your GitHub repository to `Private`. Or use other mermaid solutions. Such as [Mermaid Chart](https://www.mermaidchart.com/). However, those are beyond the scope of this project.
 
-If you prefer to avoid Web3, you can create your public diagrams on GitHub. Just like this repo! And I intend to add better documentation with step-by-step examples. But as per [my latest MDdiag action plan](https://github.com/kct2020/mddiag/blob/main/mddiag-action-plan-240627.md#mddiag-action-plan-240628), I am currently prioritizing my Web3 version.
+If you prefer to avoid Web3, you can create your public diagrams on GitHub. Just like this repo! And I intend to add better documentation with step-by-step examples. But as per [my latest MDdiag action plan](https://github.com/kct2020/mddiag/blob/main/mddiag-action-plan-240628.md#mddiag-action-plan-240628), I am currently prioritizing my Web3 version.
 
 ***
 

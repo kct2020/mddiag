@@ -5,7 +5,8 @@
 ```mermaid
 flowchart TD
     Diag(["`MDdiag Plan`"]) --> T[This] & P[Personal] & W[Web3]
-    T --> TOH>"`On Hold`"] --"`Do Web3 version before completing GitHub MDdiag as Web2 Alternative`"-->W
+    T --> TMP>"`On Hold`"] --"`Do Web3 version before completing GitHub MDdiag as Web2 Alternative`"-->W
+    O --> PO[["`Temporary Overview`"]]
     P --> PM[["`MyMDdiag`"]]
     W --> WM[["`MDdiag.Shrewdies.com`"]]
 ```

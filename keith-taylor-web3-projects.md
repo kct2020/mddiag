@@ -10,7 +10,7 @@ Web3 Projects
     Frontend should be a new project under the Shrewdies umbrella (because it exists, so can grow like Foodary)
   GoutPal
     Earlier, I tried to do the admin and the advice. But only doctors can give advice. The rest of us should help people by describing their experiences about working with doctors.
-    It's up to a (developing) community to make rules about non-doctor experiences. For now, I can insist that writers of non-doctor experiences include an appropriate disclaimer.
+    It is up to a (developing) community to make rules about non-doctor experiences. For now, I can insist that writers of non-doctor experiences include an appropriate disclaimer.
   Foodary
     ALKAscore might be useful as project name
     Want to move away from Foodary to something derived from Low Acid Eating
